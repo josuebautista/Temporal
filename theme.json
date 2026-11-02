@@ -1,0 +1,23 @@
+{
+  "background": "#0F0002",
+  "black": "#1A0D15",
+  "blue": "#B894D1",
+  "brightBlack": "#6B4A5A",
+  "brightBlue": "#D4B5E8",
+  "brightCyan": "#E8C5DD",
+  "brightGreen": "#FFC4DB",
+  "brightPurple": "#FFA0CA",
+  "brightRed": "#FF7A95",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#F9F1A5",
+  "cursorColor": "#C74A73",
+  "cyan": "#D4A5C9",
+  "foreground": "#DEB1B1",
+  "green": "#FFA8C5",
+  "name": "Sparxie",
+  "purple": "#FF7EB3",
+  "red": "#E85A7A",
+  "selectionBackground": "#3B2632",
+  "white": "#F5E8F0",
+  "yellow": "#FFD699"
+}
